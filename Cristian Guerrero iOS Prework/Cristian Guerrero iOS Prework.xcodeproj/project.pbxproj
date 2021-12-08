@@ -16,7 +16,6 @@
 		71E20F0F274A249B004A8F03 /* Cristian_Guerrero_iOS_PreworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71E20F0E274A249B004A8F03 /* Cristian_Guerrero_iOS_PreworkTests.swift */; };
 		71E20F19274A249B004A8F03 /* Cristian_Guerrero_iOS_PreworkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71E20F18274A249B004A8F03 /* Cristian_Guerrero_iOS_PreworkUITests.swift */; };
 		71E20F1B274A249B004A8F03 /* Cristian_Guerrero_iOS_PreworkUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71E20F1A274A249B004A8F03 /* Cristian_Guerrero_iOS_PreworkUITestsLaunchTests.swift */; };
-		71E20F28274B27ED004A8F03 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71E20F27274B27ED004A8F03 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,7 +62,6 @@
 		71E20F14274A249B004A8F03 /* Cristian Guerrero iOS PreworkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Cristian Guerrero iOS PreworkUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		71E20F18274A249B004A8F03 /* Cristian_Guerrero_iOS_PreworkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cristian_Guerrero_iOS_PreworkUITests.swift; sourceTree = "<group>"; };
 		71E20F1A274A249B004A8F03 /* Cristian_Guerrero_iOS_PreworkUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cristian_Guerrero_iOS_PreworkUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		71E20F27274B27ED004A8F03 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		71E20F2F274B4D0B004A8F03 /* KeyboardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardViewController.swift; sourceTree = "<group>"; };
 		71E20F31274B4D0B004A8F03 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -121,7 +119,6 @@
 				71E20EF9274A2497004A8F03 /* SceneDelegate.swift */,
 				71E20EFB274A2497004A8F03 /* ViewController.swift */,
 				71E20EFD274A2497004A8F03 /* Main.storyboard */,
-				71E20F27274B27ED004A8F03 /* SettingsViewController.swift */,
 				71E20F00274A249A004A8F03 /* Assets.xcassets */,
 				71E20F02274A249A004A8F03 /* LaunchScreen.storyboard */,
 				71E20F05274A249A004A8F03 /* Info.plist */,
@@ -290,7 +287,6 @@
 				71E20EFC274A2497004A8F03 /* ViewController.swift in Sources */,
 				71E20EF8274A2497004A8F03 /* AppDelegate.swift in Sources */,
 				71E20EFA274A2497004A8F03 /* SceneDelegate.swift in Sources */,
-				71E20F28274B27ED004A8F03 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
